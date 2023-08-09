@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbyte222&label=Profile%20views&color=0e75b6&style=flat" alt="vbyte222" /> </p>
 
-- 🔭 I’m currently working on **Automation Scripts**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Automation with Python**
+- 🌱 I’m currently learning **Game Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Unity**
 
 - 📫 How to reach me **vbyte.02@gmail.com**
 
